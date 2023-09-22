@@ -1,0 +1,17 @@
+# ENVIRONMENT VARS
+
+# Instructions: https://divjoy.com/docs/convertkit
+CONVERTKIT_FORM_ID=
+
+# Instructions: https://divjoy.com/docs/firebase
+FIREBASE_API_KEY=AIzaSyAkegY6FBYZ6tSxuKxQ5j97qkAlcjZpfzg
+FIREBASE_AUTH_DOMAIN=planningpokernew.firebaseapp.com
+FIREBASE_PROJECT_ID=planningpokernew
+
+# CLIENT-SIDE ENVIRONMENT VARS
+# Copy values from above
+
+REACT_APP_CONVERTKIT_FORM_ID=
+REACT_APP_FIREBASE_API_KEY=AIzaSyAkegY6FBYZ6tSxuKxQ5j97qkAlcjZpfzg
+REACT_APP_FIREBASE_AUTH_DOMAIN=planningpokernew.firebaseapp.com
+REACT_APP_FIREBASE_PROJECT_ID=planningpokernew
