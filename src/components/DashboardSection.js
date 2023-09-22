@@ -1,12 +1,7 @@
 import React from "react";
-import DashboardItems from "./DashboardItems";
-import { Link } from "./../util/router";
-import { useAuth } from "./../util/auth";
 import PlanningPokerSessions from "./PlanningPokerSessions";
 
 function DashboardSection(props) {
-  const auth = useAuth();
-
   return (
     <section className="py-12">
       <div className="container mx-auto">

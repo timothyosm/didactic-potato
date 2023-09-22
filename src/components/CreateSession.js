@@ -70,7 +70,7 @@ export default function CreateSession() {
           <p className="mt-4 text-sm leading-6 text-gray-300">
             Make sure to invite your team. See our{" "}
             <a
-              href="#"
+              href="/"
               className="font-semibold text-white hover:text-indigo-50"
             >
               guidelines
